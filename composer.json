@@ -1,0 +1,13 @@
+{
+    "name": "prowe/impl",
+    "require": {
+        "google/cloud": "^0.106.1",
+        "prowe/cots": "^1.0"
+    },
+    "repositories": [
+        {
+            "type": "artifact",
+            "url": "packages/"
+        }
+    ]
+}

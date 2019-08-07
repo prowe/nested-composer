@@ -1,0 +1,8 @@
+{
+    "name": "prowe/cots",
+    "version": "1.0.0",
+    "description": "Off the shelf with dependencies",
+    "require": {
+        "alexistm/simple-json-php": "^5.0"
+    }
+}
